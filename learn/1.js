@@ -1,5 +1,5 @@
 
-//js测试
+//js测试00
 var abc = 'Hello, world';
 console.log(abc);
 alert('我不想执行');
